@@ -31,7 +31,7 @@ Quelle est ta nationalite? - Je Suis Ukrainien
 3 - trois
 4 - quatre
 5 - cinq
-6 - six
+6 - six (sis)
 7 - sept
 8 - huit
 9 - neuf
@@ -47,24 +47,64 @@ Quelle est ta nationalite? - Je Suis Ukrainien
 19 - dix-neuf
 20 - vingt (read like va)
 21 - vingt-et-un
+22 - vingt-duex
+23 - vingt-trois
+24 - vingt-quatre
+25 - vingt-cinq
+26 - vingt-six
+27 - vingt-sept
+28 - vingt-huit
+29 - vingt-neuf
 30 - trente
 31 - trente-et-un
+32 - trente-duex
+33 - trente-trois
+34 - trente-quatre
+35 - trente-cinq
+36 - trente-six
+37 - trente-sept
+38 - trente-huit
+39 - trente-neuf
 40 - quarante
 41 - quarante-et-un
+42 - quarante-duex
+43 - quarante-trois
+44 - quarante-quatre
+45 - quarante-cinq
+46 - quarante-six
+47 - quarante-sept
+48 - quarante-huit
+49 - quarante-neuf
 50 - cinquante
 51 - cinquante-et-un
+52 - cinquante-duex
+53 - cinquante-trois
+54 - cinquante-quatre
+55 - cinquante-cinq
+56 - cinquante-six
+57 - cinquante-sept
+58 - cinquante-huit
+59 - cinquante-neuf
 60 - soixante
 61 - soixante-et-un
+62 - soixante-duex
+63 - soixante-trois
+64 - soixante-quatre
+65 - soixante-cinq
+66 - soixante-six
+67 - soixante-sept
+68 - soixante-huit
+69 - soixante-neuf
 70 - soixante-dix
 71 - soixante-et-onze
-72 - soixante-et-douze
-73 - soixante-et-tres
-74 - soixante-et-quatorze
-75 - soixante-et-quinze
-76 - soixante-et-seize
-77 - soixante-et-dix-sept
-78 - soixante-et-dix-huit
-79 - soixante-et-dix-neuf
+72 - soixante-douze
+73 - soixante-tres
+74 - soixante-quatorze
+75 - soixante-quinze
+76 - soixante-seize
+77 - soixante-dix-sept
+78 - soixante-dix-huit
+79 - soixante-dix-neuf
 80 - quatre-vingt
 81 - quatre-vingt-eu
 82 - quatre-vingt-duex
@@ -76,13 +116,21 @@ Quelle est ta nationalite? - Je Suis Ukrainien
 88 - quatre-vingt-huit
 89 - quatre-vingt-neuf
 90 - quatre-vingt-dix
-91 - quatre-vingt-dix-onze
-92 - quatre-vingt-dix-douze
-93 - quatre-vingt-dix-tres
-94 - quatre-vingt-dix-quatorze
-95 - quatre-vingt-dix-seize
-96 - quatre-vingt-dix-dix-sept
-97 - quatre-vingt-dix-dix-huit
-98 - quatre-vingt-dix-quatorze
-99 - quatre-vingt-dix-quatorze
+91 - quatre-vingt-onze
+92 - quatre-vingt-douze
+93 - quatre-vingt-tres
+94 - quatre-vingt-quatorze
+95 - quatre-vingt-quinze
+96 - quatre-vingt-seize
+97 - quatre-vingt-dix-sept
+98 - quatre-vingt-dix-huit
+99 - quatre-vingt-dix-neuf
 100 - Cent
+101 - Cent et un
+102 - cent duex
+200 - Duex Cent
+300 - Trois Cent
+400
+500
+
+1000 - Mille
