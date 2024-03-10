@@ -24,6 +24,7 @@ ils,elles - they, them can
 je ne peux pas conduire un avion - I can't fly (control) a plain
 je ne suis pas pilot - I'm not a pilot
 Comme d'habitude
+venez - come
 s'asseoir - to sit down
 Asseyez-vous - sit down (formal)
 Assieds-toi! - sit down (informal)
@@ -36,6 +37,16 @@ il,elle, on se sent
 nous nous sentons
 vous vous sentez
 ils,elles se sentent
+
+devoir
+je dois - have to
+
+pouvoir (capacité)
+Je peux - can
+je peux prende
+Est-ce que je peux prendre une photo? - can I take a foto
+
+Comment puis-je vous aider?
 
 il se sent seul - he feels lonely
 
@@ -66,7 +77,7 @@ Aujourd'hui Hier
 1. J'ai mal à la gorge               1. J'ai bu trop de café - I drunk to much coffee
 2. J'ai mal au nez                   2. J'ai fait de la boxe
 3. J'ai mal à l'estomac              3. J'ai travaillé toute la joumée
-4. J'ai mal à la tête                4. J'ai mangé trop de chocolat
+4. J'ai mal à la tête                4. J'ai mangé trop de chocolat - I ate to much chocolate
 5. J'ai mal aux jambes               5. J'ai maché sous la pluie
 6. J'ai mal au coeur (heart)         6. J'ai fait du vélo pendant quelques heures
 
@@ -87,28 +98,33 @@ Il faut manger léger - You have to eat light
 
 je me sens beaucoup miux - I feel much better
 
+ça fait mal
+
 ----------------------------group-task--------------------------------------
 1. Il est chez le médecine
 2. Il a mal au dos
 3. Non, Il a fais du sport
 4. Non, cest ne pas sérieux
-5. Il doit prende de comprimés un le matin et un le soir
+5. Il doit(must) prendre quatre comprimés par jour
 
 mal aux dents
 
 - Bonjure docteur!
 - Bonjure, comment puis-je vous aider, aujourd'hui? 
 - J'ai mal aux dents
-- Ouvrez la bouche. Vous avez noir une dent. Ce n'est pas grave
-- Prenez ces comprimés un le matin et un le soir et restez à la maison
+- Ouvrez la bouche. Vous avez une dent sensible, ce n'est pas si grave. Avez-vous mangé des plats froids pendant la semaine
+- Oui, j'ai mangé de la glace
 - merci docteur, au revoir
 - au revoir
 
-C order
-d b e a c 
+A
+b d a e c 
 
 B order
 d g a f e b c h
 
+C order
+d b e a c 
+
 D order
-g a c d 
+c e d b g a f
