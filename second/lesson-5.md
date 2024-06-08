@@ -21,3 +21,16 @@ je travaille dans une banque
 | ils/elles sont - they    | Sont-ils/elles ... ?                                                       | Ils ne sont pas    |
 
 nous sommes le premier juin dues mills vingt quatre
+
+## le verbe "avoir"
+
+| affirmative   | interrogative                   | negative             |
+| ------------- | ------------------------------- | -------------------- |
+| j'ai          | Ai je ... ?                     | Je n'ai pas          |
+| tu as         | As tu ... ?                     | Tu n'as pas          |
+| il/elle/on a  | A-t-il ... ?/ A-t-elle / A-t-on | Il n'a pas           |
+| nous avon     | Avons-nous ... ?                | Nous n'avons pas ... |
+| vous avez     | Avez-vous ... ?                 | Vous n'avez pas ...  |
+| ils/elles ont | Ont-ils / Ont-elles ... ?       | Ills n'ont pas ...   |
+
+Your - ta / ton / votre (only for vous)
