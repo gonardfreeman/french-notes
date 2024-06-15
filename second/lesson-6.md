@@ -93,20 +93,20 @@ Le fils de Susan est Marcel - son of Susan is Marcel
 Qui est le beau-père de Marcel? - who is father in law of Marcel
 le beau-père de Marcel est Rodger
 
-## Homework
+## homework
 
-1. Qui est le père de mon père? C’est mon grand-père.
-2. Qui est la fille de mon oncle? C’est ma nièce.
-3. Qui est la fille de ma grand-mère? C’est ma mère / ma tante.
-4. Qui est la fille de mon père? C'est ma sœur / Ma demi-soeur
-5. Qui est le fils de mon frère? C'est mon neveu
-6. Qui est la fille de ma sœur? C'est ma nièce
-7. Qui est le fils de mon fils? C'est mon petit-fils
-8. Qui est l’épouse de mon frère? C'est ma belle-sœur
-9. Qui est le conjoint de ma sœur? C'est mon beau-fréré
-10. Qui est la fille de ma fille? C'est ma petit-fille
-11. Qui sont les enfants de mon fils? Ce sont mes petis-enfants
-12. Qui est la sœur de mon oncle? C'est ma tante
+1. Qui est le père de mon père?
+2. Qui est la fille de mon oncle?
+3. Qui est la fille de ma grand-mère?
+4. Qui est la fille de mon père?
+5. Qui est le fils de mon frère?
+6. Qui est la fille de ma sœur?
+7. Qui est le fils de mon fils?
+8. Qui est l’épouse de mon frère?
+9. Qui est le conjoint de ma sœur?
+10. Qui est la fille de ma fille?
+11. Qui sont les enfants de mon fils?
+12. Qui est la sœur de mon oncle?
 
 ## other
 
@@ -120,3 +120,18 @@ le beau-père de Marcel est Rodger
 | une stat**ion**    | un l'apprent**i**  | le valis**e**                        |
 | un can**ard**      | le chev**al**      | la infirm**ière** / le infirm**ier** |
 | le mir**oir**      | le fiasc**o**      | le j**us** de pomme (apple)          |
+
+[answers](#homework)
+
+C’est mon grand-père.
+C’est ma nièce.
+C’est ma mère / ma tante.
+C'est ma sœur / Ma demi-soeur
+C'est mon neveu
+C'est ma nièce
+C'est mon petit-fils
+C'est ma belle-sœur
+C'est mon beau-fréré
+C'est ma petit-fille
+Ce sont mes petis-enfants
+C'est ma tante
