@@ -108,7 +108,12 @@ le beau-père de Marcel est Rodger
 11. Qui sont les enfants de mon fils?
 12. Qui est la sœur de mon oncle?
 
+13. Qui est le père de mon fils. C'est mon mari
+14. Qui est le mari de ma méré - C'est mon péré
+
 ## other
+
+pas de questions - no questions
 
 [answers](#practice)
 
